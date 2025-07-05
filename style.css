@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    padding: 10px;
+    background-color: orange;
+}
+
+.header {
+    background-color: white;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 55px;
+}
+
+.produto {
+    background-color: aqua;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    font-size: 55px;
+    text-align: center;
+}
