@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 # BEAUTIFUL SOUP
 
-url = "https://frontenddeveloper-gabriel.github.io/aula-14/"
+url = "https://frontenddeveloper-gabriel.github.io/beautiful-soup/"
 pagina = requests.get(url)
 html = pagina.text
 
